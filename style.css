@@ -1,0 +1,54 @@
+.hello{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.net{
+    margin-top: 150px;
+}
+
+
+.price{
+    color: purple;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+.Finance{
+    width: 30%;
+}
+
+
+.bod{
+    border: 5px solid purple;
+    border: none;
+    width: 400px;
+    background-color: #e0e0e0;
+    border-top-right-radius: 200px;
+}
+
+
+
+.fes{
+    font-size: 40px;
+}
+
+
+.trans{
+    width: 80px;
+}
+
+
+.input{
+    border: 1px solid #e0e0e0;
+}
+
+
+.form-control{
+    background-color: hsl(306, 75%, 22%);
+    color: white;
+    font-weight: bolder;
+}
