@@ -7,7 +7,7 @@
 }
 
 .price {
-    color: purple;
+    color: white;
     font-weight: bolder;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -20,7 +20,7 @@
     border: 5px solid purple;
     border: none;
     width: 400px;
-    background-color: #e0e0e0;
+    color: white;
     border-top-right-radius: 200px;
 }
 
